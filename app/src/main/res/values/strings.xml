@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+
+    <string name="title">Title</string>
+    <string name="release">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="setting">Setting</string>
+    <string name="chosen">You choose </string>
+    <string name="poster_movie">Movie Poster</string>
+    <string name="poster_tv_show">TV Show Poster</string>
+    <string name="poster_detail">Poster Detil</string>
+
+</resources>

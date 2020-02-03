@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+
+    <string name="title">Judul</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="overview">Deskripsi</string>
+    <string name="rating">Peringkat</string>
+    <string name="setting">Pengaturan</string>
+    <string name="chosen">Anda pilih</string>
+    <string name="poster_movie">Poster Film</string>
+    <string name="poster_tv_show">Poster Serial TV</string>
+
+</resources>
